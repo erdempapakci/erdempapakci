@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/erdempapakci/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
+I'm an iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
 </h2> 
 
 
