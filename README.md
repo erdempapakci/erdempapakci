@@ -44,16 +44,11 @@ I'm an iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
 
 
 ##  Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/erdempapakci/" target="_blank">
-        <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
-        width=50 height=50> &nbsp;&nbsp;&nbsp;
- <a href="https://medium.com/@erdempapakci" target="_blank">
-        <img alt="Medium" src="https://github.com/erdempapakci/erdempapakci/assets/73407945/6e8b38d6-55d0-4a20-97dc-7c8a0171c9e7"
-        width=50 height=50> &nbsp;&nbsp;&nbsp; 
 
-
-  
-  </a>
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/erdempapakci/" target="_blank">
+    <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
+      width="50" height="50"> &nbsp;&nbsp;&nbsp;
 
+</p>
