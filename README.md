@@ -10,17 +10,34 @@ I'm an iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
 </h2> 
 
 
-
-
 | This is my Lifecycle   | 
 | :----------- |
 | <img src="https://user-images.githubusercontent.com/73407945/198621468-bb3b1770-ae0a-4bb7-9269-c81b7ff99c96.png" width="400" height="400" /> |  
 
+<div align=left>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+        <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+        <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
+        <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>            
+        </td>
+    </tr>
+</table>
+</div>
 
-
-|  <img width="50" alt="Phone 14 Pro - 2022-10-27 at 23 01 03" src="https://user-images.githubusercontent.com/73407945/198651957-a6aae503-5859-4338-888f-8ad1ca9535ac.png"><img width="50" alt="Phone 14 Pro - 2022-10-27 at 23 01 03" src="https://user-images.githubusercontent.com/73407945/198651978-5b3ca13c-340a-4b1b-8c2d-39fa831951d5.png"> | 
+| | 
 | :----------- |
-| - 🌱 I’m currently learning more on RxSwift and Swift Clean Code principles| 
+| - 🌱 I’m currently learning more on Combine and Swift Clean Code principles| 
 |- 💬 Ask me about Swift and SwiftUI| 
 |- ⚡ Fun fact: Big Fan of iOS docs and video games  | 
 | - 📫 How to reach me: If you have any question/feedback, please do not hesitate to reach out to  [Gmail](mailto:erdempapakcii@gmail.com)| 
@@ -31,9 +48,11 @@ I'm an iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
 <a href="https://www.linkedin.com/in/erdempapakci/" target="_blank">
         <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
         width=50 height=50> &nbsp;&nbsp;&nbsp;
-  
+ <a href="https://medium.com/@erdempapakci" target="_blank">
+        <img alt="Medium" src="https://github.com/erdempapakci/erdempapakci/assets/73407945/6e8b38d6-55d0-4a20-97dc-7c8a0171c9e7"
+        width=50 height=50> &nbsp;&nbsp;&nbsp; 
 
-  
+
   
   </a>
 </p>
