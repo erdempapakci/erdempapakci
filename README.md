@@ -37,8 +37,8 @@ I'm an iOS Developer 💻,  Architect 👷🏼‍♂️ and Gamer 🎮 !
 
 | | 
 | :----------- |
-| - 🌱 I’m currently learning more on Combine and Swift Clean Code principles| 
-|- 💬 Ask me about Swift and SwiftUI| 
+| - 🌱 I’m currently learning more on Swift Clean Code principles| 
+|- 💬 Ask me about all iOS technologies| 
 |- ⚡ Fun fact: Big Fan of iOS docs and video games  | 
 | - 📫 How to reach me: If you have any question/feedback, please do not hesitate to reach out to  [Gmail](mailto:erdempapakcii@gmail.com)| 
 
